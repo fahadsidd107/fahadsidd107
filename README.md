@@ -3,7 +3,7 @@
 <p><em>Full Stack (MERN Stack) Developer / Masters Student </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Fad_Flex?label=Follow)](https://twitter.com/intent/follow?screen_name=Fad_Flex)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahad-siddiqui-595484176/)](https://www.linkedin.com/in/fahad-siddiqui-5954841768/)
+[![Linkedin: anmol](https://img.shields.io/badge/-fahad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahad-siddiqui-595484176/)](https://www.linkedin.com/in/fahad-siddiqui-5954841768/)
 ![GitHub followers](https://img.shields.io/github/followers/fahadsidd107?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fahad-siddiqui-portfolio.vercel.app/)](https://fahad-siddiqui-portfolio.vercel.app/)
 
