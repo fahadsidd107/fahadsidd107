@@ -25,56 +25,34 @@ npx fahad
 
 ```javascript
 
+
 const fahad = {
   name: "Muhammad Fahad Siddiqui",
   pronouns: "he/him",
   location: "Frankfurt am Main, Germany",
-  origin: "Karachi, Pakistan",
+  role: "Full-Stack Software Engineer | Technical Lead",
 
-  role: "Full-Stack Software Engineer & Technical Lead",
-  experience: "5+ years",
-
-  education: {
-    masters: {
-      degree: "M.Sc. High Integrity Systems",
-      university: "Frankfurt University of Applied Sciences",
-      graduated: 2026,
-    },
-    bachelors: {
-      degree: "B.S. Software Engineering",
-      university: "Sir Syed University of Engineering & Technology",
-      graduated: 2023,
-    },
-  },
-
-  languages: {
-    programming: [
-      "TypeScript",
-      "JavaScript",
-      "Java",
-      "Python",
-      "Go",
-      "Rust",
-      "PHP",
-      "Dart",
-      "C++",
-    ],
-    spoken: {
-      english: "C1",
-      german: "B1",
-      urdu: "Native",
-    },
-  },
+  code: [
+    "TypeScript",
+    "JavaScript",
+    "Java",
+    "Python",
+    "Go",
+    "Rust",
+    "PHP",
+    "Dart",
+    "C++",
+  ],
 
   askMeAbout: [
-    "Full-Stack Engineering",
-    "Backend Architecture",
+    "Full-Stack Development",
+    "Backend Engineering",
+    "System Design",
     "Distributed Systems",
     "Cloud & DevOps",
-    "AI-Powered Applications",
+    "AI & LLM Integrations",
     "Microservices",
-    "System Design",
-    "SaaS Products",
+    "SaaS Development",
     "Developer Tools",
   ],
 
@@ -87,7 +65,6 @@ const fahad = {
         "Angular",
         "Astro",
       ],
-      languages: ["TypeScript", "JavaScript"],
       styling: [
         "Tailwind CSS",
         "Material UI",
@@ -109,7 +86,7 @@ const fahad = {
       python: ["Django", "Flask"],
       go: ["Gin"],
       php: ["Laravel"],
-      rust: ["Rust Backend Development"],
+      rust: ["Rust"],
       apis: [
         "REST",
         "GraphQL",
@@ -142,7 +119,7 @@ const fahad = {
       cloud: [
         "AWS",
         "Google Cloud Platform",
-        "Microsoft Azure",
+        "Azure",
         "Firebase",
       ],
       containers: [
@@ -150,52 +127,56 @@ const fahad = {
         "Kubernetes",
         "Helm",
       ],
-      infrastructure: ["Terraform", "Linux"],
+      infrastructure: [
+        "Terraform",
+        "Linux",
+      ],
       cicd: [
         "GitHub Actions",
         "Azure DevOps",
       ],
-      testing: [
-        "Jest",
-        "Mocha",
-        "Playwright",
-      ],
     },
 
     distributedSystems: [
-      "Microservices",
       "Apache Kafka",
       "RabbitMQ",
       "Redis",
-      "Event-Driven Architecture",
+      "Microservices",
+      "Event-Driven Systems",
       "Message Queues",
       "Data Pipelines",
     ],
 
     aiAndAutomation: {
       codingAssistants: [
-        "OpenAI Codex",
         "Claude Code",
+        "OpenAI Codex",
         "ChatGPT",
+      ],
+      frameworks: [
+        "LangChain",
+        "LangChainGo",
+        "Vercel AI SDK",
       ],
       integrations: [
         "OpenAI API",
-        "LangChain",
-        "LangChainGo",
+        "LLM APIs",
         "Vapi",
         "AI Agents",
-        "LLM APIs",
-      ],
-      workflows: [
-        "AI-Assisted Development",
-        "Agentic Workflows",
-        "AI-Powered CI/CD",
+        "MCP",
       ],
     },
 
-    toolsAndPlatforms: [
+    testing: [
+      "Jest",
+      "Mocha",
+      "Playwright",
+    ],
+
+    tools: [
       "Git",
       "GitHub",
+      "Docker",
       "Sanity CMS",
       "Contentful",
       "Supabase",
@@ -206,87 +187,26 @@ const fahad = {
   },
 
   architecture: [
-    "Microservices Architecture",
+    "Microservices",
     "Event-Driven Architecture",
     "Distributed Systems",
-    "RESTful API Architecture",
     "Cloud-Native Applications",
     "Serverless Architecture",
+    "RESTful API Design",
     "Monorepo Architecture",
-    "Real-Time Applications",
+    "Real-Time Systems",
     "SaaS Architecture",
+    "Progressive Web Applications",
+    "Single Page Applications",
   ],
 
-  currentRole: {
-    company: "Anue Education Solutions GmbH",
-    position: "Technical Lead",
-    responsibilities: [
-      "Software Architecture",
-      "Full-Stack Development",
-      "Backend Engineering",
-      "Technical Decision-Making",
-      "Cloud Infrastructure",
-      "CI/CD & Deployments",
-      "Code Reviews",
-      "Developer Mentoring",
-      "Production Reliability",
-    ],
-  },
-
-  projects: {
-    mentoraAI: {
-      description: "AI-powered voice tutoring platform",
-      stack: [
-        "Next.js",
-        "TypeScript",
-        "Supabase",
-        "Clerk",
-        "Vapi",
-      ],
-      github: "https://github.com/fahadsidd107/mentora-ai",
-    },
-
-    plotlyst: {
-      description: "AI-powered movie discovery platform",
-      stack: [
-        "React",
-        "Go",
-        "MongoDB",
-        "LangChainGo",
-        "OpenAI",
-      ],
-      github:
-        "https://github.com/fahadsidd107/plotlyst-ai-movie-discovery",
-      status: "In Development",
-    },
-
-    pitchPulse: {
-      description: "Real-time football intelligence platform",
-      stack: [
-        "Rust",
-        "Vue.js",
-        "PostgreSQL",
-        "Kafka",
-        "Redis",
-        "RabbitMQ",
-      ],
-      github:
-        "https://github.com/fahadsidd107/pitchpulse-football-intelligence",
-      status: "In Development",
-    },
-
-    faultLine: {
-      description: "Chaos engineering and resilience testing platform",
-      status: "Planned",
-    },
-  },
-
-  currentlyExploring: [
-    "Advanced Distributed Systems",
-    "AI Agents & Developer Automation",
+  currentFocus: [
+    "AI-Powered Applications",
+    "Agentic AI Workflows",
+    "Distributed Systems",
+    "Rust Backend Development",
     "Cloud-Native Architecture",
-    "Rust Backend Engineering",
-    "System Reliability Engineering",
+    "Developer Productivity Tools",
   ],
 
   interests: [
@@ -294,13 +214,13 @@ const fahad = {
     "Real Madrid",
     "Christopher Nolan Movies 🎬",
     "Gaming 🎮",
-    "Building Side Projects",
-    "System Design",
+    "Building Things for Fun",
   ],
 
   funFact:
-    "I write code for a living, then go home and write more code for fun. Apparently, I don't know how to relax.",
+    "I write code for a living, then write more code for fun. Apparently, debugging is my love language.",
 };
+
 
 ```
 
