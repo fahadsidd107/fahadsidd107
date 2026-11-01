@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hallo 👋 , I'm Muhammad Fahad Siddiqui !</h2>
 <img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="230">
-<p><em>Full Stack (MERN Stack) Developer</em></p>
+<p><em>Full-Stack Software Engineer | Technical Lead</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Fad_Flex?label=Follow)](https://twitter.com/intent/follow?screen_name=Fad_Flex)
 [![Linkedin: anmol](https://img.shields.io/badge/-fahad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahad-siddiqui-595484176/)](https://www.linkedin.com/in/fahad-siddiqui-5954841768/)
@@ -33,54 +33,29 @@ const fahad = {
   role: "Full-Stack Software Engineer | Technical Lead",
 
   code: [
-    "TypeScript",
-    "JavaScript",
-    "Java",
-    "Python",
-    "Go",
-    "Rust",
-    "PHP",
-    "Dart",
-    "C++",
+    "TypeScript", "JavaScript", "Java", "Python", "Go", "Rust", "PHP", "Dart", "C++",
   ],
 
   askMeAbout: [
-    "Full-Stack Development",
-    "Backend Engineering",
-    "System Design",
-    "Distributed Systems",
-    "Cloud & DevOps",
-    "AI & LLM Integrations",
-    "Microservices",
-    "SaaS Development",
-    "Developer Tools",
+    "Full-Stack Development", "Backend Engineering", "System Design", "Distributed Systems", "Cloud & DevOps", "AI & LLM Integrations", "Microservices", "SaaS Development", "Developer Tools",
   ],
 
   technologies: {
     frontend: {
       frameworks: [
-        "React",
-        "Next.js",
-        "Vue.js",
-        "Angular",
-        "Astro",
+        "React", "Next.js", "Vue.js", "Angular", "Astro",
       ],
       styling: [
-        "Tailwind CSS",
-        "Material UI",
-        "Ant Design",
+        "Tailwind CSS", "Material UI", "Ant Design",
       ],
       stateManagement: [
-        "Redux Toolkit",
-        "Redux Thunk",
+        "Redux Toolkit", "Redux Thunk",
       ],
     },
 
     backend: {
       javascript: [
-        "Node.js",
-        "NestJS",
-        "Express.js",
+        "Node.js", "NestJS", "Express.js",
       ],
       java: ["Spring Boot"],
       python: ["Django", "Flask"],
@@ -88,133 +63,75 @@ const fahad = {
       php: ["Laravel"],
       rust: ["Rust"],
       apis: [
-        "REST",
-        "GraphQL",
-        "tRPC",
-        "WebSockets",
+        "REST", "GraphQL", "tRPC", "WebSockets",
       ],
     },
 
     mobile: [
-      "React Native",
-      "Expo",
-      "Flutter",
+      "React Native", "Expo", "Flutter",
     ],
 
     databases: {
       relational: [
-        "PostgreSQL",
-        "MySQL",
-        "SQLite",
+        "PostgreSQL", "MySQL", "SQLite",
       ],
       nosql: ["MongoDB"],
       orm: [
-        "Prisma",
-        "TypeORM",
+        "Prisma", "TypeORM",
       ],
       caching: ["Redis"],
     },
 
     cloudAndDevOps: {
       cloud: [
-        "AWS",
-        "Google Cloud Platform",
-        "Azure",
-        "Firebase",
+        "AWS", "Google Cloud Platform", "Azure", "Firebase",
       ],
       containers: [
-        "Docker",
-        "Kubernetes",
-        "Helm",
+        "Docker", "Kubernetes", "Helm",
       ],
       infrastructure: [
-        "Terraform",
-        "Linux",
+        "Terraform", "Linux",
       ],
       cicd: [
-        "GitHub Actions",
-        "Azure DevOps",
+        "GitHub Actions", "Azure DevOps",
       ],
     },
 
     distributedSystems: [
-      "Apache Kafka",
-      "RabbitMQ",
-      "Redis",
-      "Microservices",
-      "Event-Driven Systems",
-      "Message Queues",
-      "Data Pipelines",
+      "Apache Kafka", "RabbitMQ", "Redis", "Microservices", "Event-Driven Systems", "Message Queues", "Data Pipelines",
     ],
 
     aiAndAutomation: {
       codingAssistants: [
-        "Claude Code",
-        "OpenAI Codex",
-        "ChatGPT",
+        "Claude Code", "OpenAI Codex", "ChatGPT",
       ],
       frameworks: [
-        "LangChain",
-        "LangChainGo",
-        "Vercel AI SDK",
+        "LangChain", "LangChainGo", "Vercel AI SDK",
       ],
       integrations: [
-        "OpenAI API",
-        "LLM APIs",
-        "Vapi",
-        "AI Agents",
-        "MCP",
+        "OpenAI API", "LLM APIs", "Vapi", "AI Agents", "MCP",
       ],
     },
 
     testing: [
-      "Jest",
-      "Mocha",
-      "Playwright",
+      "Jest", "Mocha", "Playwright",
     ],
 
     tools: [
-      "Git",
-      "GitHub",
-      "Docker",
-      "Sanity CMS",
-      "Contentful",
-      "Supabase",
-      "Clerk",
-      "Firebase Authentication",
-      "Firebase Storage",
+      "Git", "GitHub","Docker", "Sanity CMS", "Contentful", "Supabase", "Clerk", "Firebase Authentication", "Firebase Storage",
     ],
   },
 
   architecture: [
-    "Microservices",
-    "Event-Driven Architecture",
-    "Distributed Systems",
-    "Cloud-Native Applications",
-    "Serverless Architecture",
-    "RESTful API Design",
-    "Monorepo Architecture",
-    "Real-Time Systems",
-    "SaaS Architecture",
-    "Progressive Web Applications",
-    "Single Page Applications",
+    "Microservices", "Event-Driven Architecture", "Distributed Systems", "Cloud-Native Applications", "Serverless Architecture", "RESTful API Design", "Monorepo Architecture", "Real-Time Systems", "SaaS Architecture", "Progressive Web Applications", "Single Page Applications",
   ],
 
   currentFocus: [
-    "AI-Powered Applications",
-    "Agentic AI Workflows",
-    "Distributed Systems",
-    "Rust Backend Development",
-    "Cloud-Native Architecture",
-    "Developer Productivity Tools",
+    "AI-Powered Applications", "Agentic AI Workflows", "Distributed Systems", "Rust Backend Development", "Go Backend Development", "Cloud-Native Architecture", "Developer Productivity Tools",
   ],
 
   interests: [
-    "Football ⚽",
-    "Real Madrid",
-    "Christopher Nolan Movies 🎬",
-    "Gaming 🎮",
-    "Building Things for Fun",
+    "Football ⚽", "Movies 🎬", "Gaming 🎮", "Building Things for Fun",
   ],
 
   funFact:
